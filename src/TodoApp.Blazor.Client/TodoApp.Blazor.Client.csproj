@@ -33,5 +33,9 @@
     <ProjectReference Include="..\..\src\TodoApp.HttpApi.Client\TodoApp.HttpApi.Client.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
 
 </Project>
